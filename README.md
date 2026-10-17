@@ -95,9 +95,10 @@ TypeScript · Advanced Firebase · Frontend performance optimization
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=namita430&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namita430&theme=github_dark&hide_border=true&layout=compact&count_private=true" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=namita430&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namita430&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
 </p>
+
 
 ## Collaboration
 
