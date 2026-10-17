@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · ProCare Nepal Software</h3>
 
 <p align="center">
-  Building healthcare management systems and e-commerce platforms for Nepal with the MERN stack, Java, and MySQL.
+  Building healthcare and clinic management systems and medical e-commerce platforms for Nepal with the MERN stack, Java, and MySQL.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a full-stack developer from Nepal. I build and maintain production web applications, including healthcare management systems and e-commerce sites, using the MERN stack (MongoDB, Express.js, React, Node.js). I also use Java and MySQL for IRD (Inland Revenue Department) integration work, and I deploy on cPanel hosting.
+I'm a full-stack developer from Nepal. I build and maintain production web applications, including a healthcare and clinic management system and an e-commerce platform for surgical, dental and medical products, using the MERN stack (MongoDB, Express.js, React, Node.js). I also use Java and MySQL for IRD (Inland Revenue Department) integration work, and I deploy on cPanel hosting.
 
 ## Experience and Projects
 
@@ -27,8 +27,8 @@ Developing healthcare management systems and e-commerce solutions for medical an
 
 | Project | Description |
 |---|---|
-| [**procarenepal.com**](https://www.procarenepal.com) | Healthcare and e-commerce platform for ProCare Nepal. <!-- EDIT: add key features --> |
-| [**curehivenepal.com**](https://www.curehivenepal.com) | Medical tourism platform connecting patients with hospitals and treatments in Nepal. <!-- EDIT: add key features --> |
+| [**procarenepal.com**](https://www.procarenepal.com) | Healthcare and Clinic Management System for ProCare Nepal. <!-- EDIT: add key features --> |
+| [**curehivenepal.com**](https://www.curehivenepal.com) | E-commerce website for surgical, dental and medical products. <!-- EDIT: add key features --> |
 | **IRD Integration** | Java-based integration with Nepal's Inland Revenue Department, backed by MySQL. <!-- EDIT: describe what it does, e.g. billing / invoice sync --> |
 
 ### Project Stack
@@ -48,7 +48,7 @@ Developing healthcare management systems and e-commerce solutions for medical an
 - **Integrations:** Java services for IRD and MySQL-backed data workflows
 - **Databases:** MongoDB (NoSQL) and MySQL (relational) design
 - **Deployment:** cPanel hosting, domains, databases, and releases on DataHub and BabalHost
-- **Domain:** healthcare management systems, medical tourism, and e-commerce
+- **Domain:** healthcare and clinic management systems, and e-commerce for medical products
 
 ## Tech Stack
 
@@ -103,7 +103,7 @@ TypeScript · Advanced Firebase · Frontend performance optimization
 
 I'm open to collaborating on open-source projects, UI/UX work, and healthcare-focused web development. I'm also looking for guidance on TypeScript and performance optimization.
 
-**Ask me about:** MERN stack development, healthcare management systems, e-commerce, Java and MySQL, REST APIs, and cPanel deployment.
+**Ask me about:** MERN stack development, clinic and healthcare management systems, medical e-commerce, Java and MySQL, REST APIs, and cPanel deployment.
 
 ---
 
