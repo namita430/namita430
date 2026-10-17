@@ -1,24 +1,104 @@
-# 💫 About Me:
-🔭 I'm currently working on:<br>Building responsive web applications and my personal portfolio using HTML, CSS, JavaScript, and Firebase.<br><br>👯 I'm looking to collaborate on:<br>Open-source frontend projects, UI/UX designs, and modern web development projects.<br><br>🤝 I'm looking for help with:<br>React.js, TypeScript, frontend performance optimization, and best development practices.<br><br>🌱 I'm currently learning:<br>React.js, Firebase, Git/GitHub, and modern JavaScript (ES6+).<br><br>💬 Ask me about:<br>HTML5, CSS3, JavaScript, Firebase, Git, GitHub, Netlify, Responsive Web Design, and Frontend Development.<br><br>⚡ Fun fact:<br>I enjoy turning ideas into clean, responsive websites and believe every pixel has a purpose. ✨
+<h1 align="center">Namita Giri</h1>
+<h3 align="center">Full-Stack Developer · ProCare Nepal Software</h3>
 
+<p align="center">
+  Designing and building scalable web platforms for healthcare and medical tourism in Nepal, from the interface to the API and database.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/namitagiri_19073) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__na_mita____/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/namita-giri-834a93323) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/namitagiri78/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@serenity_440) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namitagiri783@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=namita430&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=namita430&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=namita430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=namita430&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/namita-giri-834a93323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:namitagiri783@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/namita430"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=namita430&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a full-stack developer from Nepal. I build responsive frontends and the backend services behind them: REST APIs, authentication, database design, and deployment on cPanel-based hosting. I work in healthcare technology and medical tourism, building platforms that connect patients with trusted hospitals and care providers.
+
+## Experience and Projects
+
+### Full-Stack Developer · ProCare Nepal Software
+Developing web and backend solutions for healthcare and medical services in Nepal. <!-- EDIT: add your start date, website link, and key responsibilities -->
+
+### CureHive Nepal
+A medical tourism platform that helps patients find hospitals and treatments in Nepal and coordinate their care. <!-- EDIT: add live link and key features, e.g. hospital listings, appointment/inquiry management, patient dashboard -->
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
+| **Backend** | Python, Django, PHP <!-- EDIT --> |
+| **Database** | MySQL, Firebase Firestore <!-- EDIT --> |
+| **Auth and Services** | Firebase Authentication, REST APIs <!-- EDIT --> |
+| **Deployment** | cPanel hosting (DataHub, BabalHost), Git/GitHub |
+
+## What I Do
+
+- **Frontend:** responsive, accessible, cross-browser interfaces
+- **Backend:** server-side logic, REST APIs, authentication and authorization
+- **Databases:** relational (MySQL, SQLite) and NoSQL (MongoDB, Firestore) design
+- **Deployment:** cPanel hosting management, domains, databases, and releases on DataHub and BabalHost
+- **Domain:** healthcare and medical tourism platforms
+
+## Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Deployment and Hosting**
+
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![DataHub](https://img.shields.io/badge/Hosting-DataHub-1F2937?style=flat-square)
+![BabalHost](https://img.shields.io/badge/Hosting-BabalHost-1F2937?style=flat-square)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**CMS and Tools**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Other Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+## Currently Learning
+
+React.js · TypeScript · Advanced Firebase · Frontend performance optimization
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=namita430&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namita430&theme=github_dark&hide_border=true&layout=compact&count_private=true" alt="Top languages" />
+</p>
+
+## Collaboration
+
+I'm open to collaborating on open-source projects, UI/UX work, and healthcare-focused web development. I'm also looking for guidance on React, TypeScript, and performance optimization.
+
+**Ask me about:** Django, Firebase, REST APIs, database design, cPanel deployment, JavaScript, Git/GitHub, and responsive web design.
+
+---
+
+<p align="center">
+  <sub>Open to collaboration. Reach me at <a href="mailto:namitagiri783@gmail.com">namitagiri783@gmail.com</a></sub>
+</p>
