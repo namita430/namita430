@@ -92,12 +92,7 @@ Developing healthcare management systems and e-commerce solutions for medical an
 
 TypeScript · Advanced Firebase · Frontend performance optimization
 
-## GitHub Activity
 
-<p align="center">
- <img height="170" src="https://streak-stats.demolab.com/?user=namita430&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namita430&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
-</p>
 
 
 ## Collaboration
